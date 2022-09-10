@@ -11,4 +11,7 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
     }
+    public void connorAddFunction(){
+        //this does nothing but done by connor
+    }
 }
