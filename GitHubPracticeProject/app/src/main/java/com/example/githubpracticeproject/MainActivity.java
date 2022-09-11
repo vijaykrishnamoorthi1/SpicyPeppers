@@ -14,4 +14,7 @@ public class MainActivity extends AppCompatActivity {
     public void connorAddFunction(){
         //this does nothing but done by connor
     }
+    public void vijayAddFunction(){
+        //this does nothing but done by vijay
+    }
 }
